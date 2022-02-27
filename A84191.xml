@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true relation of that tumultuous behaviour of divers citizens and others at Guild-Hall, December the 12. 1642. Wherein is related the businesse they pretend, their conference with my lord major and court of common counsell, their cruelty to the souldiers, their breach of peace, and shamefull abuse to the citizens, with other remarkeable things. By a sad spectator.</title>
+            <author>Sad spectator.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84191</idno>
+            <idno type="STC">Wing E3613</idno>
+            <idno type="STC">Thomason E130_15</idno>
+            <idno type="STC">ESTC R1560</idno>
+            <idno type="EEBO-CITATION">99859893</idno>
+            <idno type="PROQUEST">99859893</idno>
+            <idno type="VID">111995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84191)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111995)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E130[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true relation of that tumultuous behaviour of divers citizens and others at Guild-Hall, December the 12. 1642. Wherein is related the businesse they pretend, their conference with my lord major and court of common counsell, their cruelty to the souldiers, their breach of peace, and shamefull abuse to the citizens, with other remarkeable things. By a sad spectator.</title>
+                  <author>Sad spectator.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. A. &amp; R. D.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Decemb. 13. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "at delivery of their frivolous petition".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Corporation of London --  Court of Common Council --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111995:1" rendition="simple:additions"/>
+            <p>AN EXACT AND TRVE RELATION of that Tumultuous beha<g ref="char:EOLhyphen"/>viour of divers Citizens and others at
+<hi>Guild-Hall, Decem<g ref="char:EOLhyphen"/>ber</hi> the 12. 1642.</p>
+            <p>Wherein is related the buſi<g ref="char:EOLhyphen"/>neſſe they pretend, their Conference with my Lord Major and
+Court of Com<g ref="char:EOLhyphen"/>mon Counſell, their cruelty to the Souldiers, their breach of peace, and ſhamefull
+abuſe to the Citi<g ref="char:EOLhyphen"/>zens, with other remarke<g ref="char:EOLhyphen"/>able Things.</p>
+            <p>By a ſad Spectator.</p>
+            <p>Printed for <hi>B. A.</hi> &amp; <hi>R. D. Decemb.</hi> 13. 1642.</p>
+            <pb facs="tcp:111995:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111995:2"/>
+            <head>An Exact and True Relation of that tumul<g ref="char:EOLhyphen"/>tuous behaviour of diverſe Citizens and others at
+<hi>Guild-Hall. December</hi> 12. 1642.</head>
+            <p>By a multitude under the pretence of PEACE.</p>
+            <p>
+               <seg rend="decorInit">I</seg>T is a ſad thing, that ſuch ſtrange tumults ſhould ariſe in ſuch a well Governed
+City, eſpecially from them whoſe pretence is altogether for Peace, but whoſe words and
+carriages doe declare the contrary, as may appeare in their
+<pb n="2" facs="tcp:111995:3"/>
+cariage at <hi>Haberdaſhers Hall</hi> the ninth of December, and in thoſe deſperate
+ſpeeches that came from them that night, as will ap<g ref="char:EOLhyphen"/>peare largely upon proofe, as doth more
+evidence it ſelfe upon the twelfth of De<g ref="char:EOLhyphen"/>cember, upon which day my Lord Major called a Court of
+Common Counſell, and being on ſerious debate, theſe men of ſeve<g ref="char:EOLhyphen"/>rall conditions, ſome
+Proctors, ſome Tap<g ref="char:EOLhyphen"/>ſters, ſome Players, witneſſe <hi>Cain</hi> the Clown at the Bull, and
+others came in great multi<g ref="char:EOLhyphen"/>tude, and filled the Hall and Yard, as full as if there had beene ſome
+extraordinary com<g ref="char:EOLhyphen"/>mon Hall. So they ſent ſome of their com<g ref="char:EOLhyphen"/>pany up to the Court, at their
+comming in my Lord Major asked them what they would have one Maſter <hi>Osbinſtone,</hi> Tole
+taker on the Bridge, being one of their cho<g ref="char:EOLhyphen"/>ſen men, ſaid, for Peace, and for the pe<g ref="char:EOLhyphen"/>tition,
+which would admit of no delay. Tis ſo, ſaid he, the Kings Army and ours doe face one another,
+and much blood is like to be ſpilt, therefore there is ſpeed of
+<pb n="3" facs="tcp:111995:3"/>
+our Petition. My Lord ſpake of ſome paſſa<g ref="char:EOLhyphen"/>ges in the petition, and upon diſcourſe they
+all ſeemed to be ſatisfied. Then my Lord and the Court told them they did as really deſire
+peace as they, but they did not ap<g ref="char:EOLhyphen"/>prove of their way, and to that purpoſe he had called a Court
+to adviſe about it, who had choſe ſeven Aldermen, and foureteene Commoners, to draw up a
+petition to the King and both Houſes of Parliament, and they hoped it would be ſuch, that it
+would give ſatisfaction to all.</p>
+            <p>In the meane time the Spirits of thoſe men that were in the Hall and in the Yard, were ſo
+up, that they were ready to quarrell with every man that they had any ſuſpition was not of
+their Society, inſomuch that ma<g ref="char:EOLhyphen"/>ny men of civill quality went away for feare of danger; at length
+they grew to this re<g ref="char:EOLhyphen"/>ſolution, they would force out all they ap<g ref="char:EOLhyphen"/>prehended to be Souldiers out of
+the Hall.</p>
+            <p>Sergeant Major <hi>Skippons</hi> man paſſing through the Hall, ſpeaking to no man, ſaith
+
+<pb n="4" facs="tcp:111995:4"/>
+one there goeth <hi>Skippons</hi> dogge, upon that they jouſled him, knockt him downe often, and
+robbed him of money and other things to the worth of ſix pounds. A few Soul<g ref="char:EOLhyphen"/>diers there were up
+and downe the Hall, waiting on their buſines as at other times, out they muſt by head and
+ſhoulders where ever they found any, though they gave them very good words, and an account of
+their buſineſſe. The Souldiers being thus diſ<g ref="char:EOLhyphen"/>gracefully turned out, by what authority they
+knew not, reſolved they would goe in againe, and ſome ten or twelve drew their ſwords and in
+they got, being in they wiſhed them to cleare the Hall, offering no blow nor aſſault to any;
+the moſt that were in the Hall drove up to the Court of Huſt<g ref="char:EOLhyphen"/>ings, others got behind the
+Souldiers, cloſed in upon them, and wreſted their ſwords out of their hands, then preſently
+the mul<g ref="char:EOLhyphen"/>titude cryed out ſhut the doores, ſhut the doores. So they did, and barracadoed them up
+with Formes &amp; other things they found
+<pb n="5" facs="tcp:111995:4"/>
+in the Hall, in the interim they moſt cruelly beate, cut, and wounded the Souldiers, 20. or 30.
+upon one, kicking them like dogges, after that they fell upon ſome Citizens, cal<g ref="char:EOLhyphen"/>ling them round
+head rogues, beate them blacke and blew, and abuſed them in moſt ſhamefull manner, multitudes
+on one, with their fiſts about his eares. The beaten, wounded men, cryed out murther murther,
+thoſe without laboured to get open the doores, and by force got open a little crevice one of the
+Horſemen that were in the yard, ſhot in at the crevice to frighten them that ſo they might
+open the doore, but they ſhut it faſt, and in a hubbub up ſtaires they got, where my Lord
+Major and the Court ſate, forced open the doores, Maſter <hi>Osbinſtone</hi> told my Lord and
+the Court if they would ſend the Souldiers away that were in the yard and at the gates of the
+Hall, he would undertake that every man ſhould goe home to their dwellings; This
+<hi>Osbinſtone</hi> being in cuſtody, and paſſing by the Conduit at the
+<pb n="6" facs="tcp:111995:5"/>
+lower end of Cheape ſide, was by force drove into the Miter Taverne, no ſooner was he in, but
+they ſhut the ſtreete doores, preſently he was creeping out of a window at the top of the
+houſe, getting on the leads of Mercers Chappell, to make an eſcape as is conceived, but being
+deſerned by ſome on the other ſide-they diſcovered him and got him againe; Many were
+committed for ſpeaking deſperate words, and one with his head broke for beginning a Fray in the
+yard, the iſſue of ſuch deſperate carriages I hope will be carefully looked to in time,
+that they may not grow to ſuch a head, that Religion, and Liberty, and all ſafety may be
+hazarded.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
